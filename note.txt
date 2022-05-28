@@ -1,0 +1,6 @@
+File Car-details-v3.csv: Tập dữ liệu
+Folder web_app: Ứng dụng web demo dự đoán giá xe hơi cũ(sử dụng framework Python Flask)
+File Nhom02_Code.py: Đọc, xử lý dữ liệu, huấn luyện và đánh giá model Random Forest Regression
+File model_selection.py: Đọc, xử lý dữ liệu và tìm ra model và hyperparameter tốt nhất cho tập dữ liệu
+
+
