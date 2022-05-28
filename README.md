@@ -1,5 +1,8 @@
 # Machine-Learning-Web
+<div>
 <h1>Giao diện giúp tương tác với model dự đoán giá xe hơi </h1>
+<img src='https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1' width="48" height="42"/>
+</div>
 <h2>Mô tả</h2>
 Website demo môn học Machine Learning dự đoán giá xe hơi đã qua sử dụng <br>
 <h2>Mô hình thực hiên End-to-end project</h2>
@@ -21,5 +24,13 @@ Website demo môn học Machine Learning dự đoán giá xe hơi đã qua sử 
 <li> Sau đó server sẽ hoạt động, mở trình duyệt và truy cập vào đường dẫn http://127.0.0.1:5000/ để sử dụng website.</li>
 <li> Chọn các giá trị hoặc nhập vào các ô sau đó bấm nút dự đoán hệ thống sẽ tín toán và trả về kết quả dự đoán.</li>
 </ol>
-
+<h2> Thành viên </h2>
+<ol>
+  <li><a href='https://github.com/HoangVanBinh0712'>Hoàng Văn Bình</a> </li>
+  <li><a href='https://github.com/lexus2801'>Nguyễn Thanh Hiền</a></li>
+  <li><a>Lê Nguyễn Đức Mạnh</a></li>
+  <li><a>La Gia Phong</a></li>
+  <li><a>Nguyễn Hồng Phúc</a></li>
+  <li><a>Ngô Bùi Tuấn Anh</a></li>
+</ol>
 
